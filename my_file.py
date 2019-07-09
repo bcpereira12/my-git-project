@@ -2,5 +2,6 @@ print('Hi git')
 
 print('Hi git')
 
-def hi_there():
-    print('My local change')
+def merge_conflict():
+    print('Update python for merged conflict demo')
+
